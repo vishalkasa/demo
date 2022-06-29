@@ -1,4 +1,6 @@
 {
+    "user":
+{
     "id": 1,
     "name": "Vishal Kasa",
     "title": "Software Developer",
@@ -9,3 +11,4 @@
     "Cubicle":"Office-IND, MH-IND, PUNE, Hinjawadi, Yajurveda D2 C10",
     "Expertise":"Expertise in React Native and ML/DL"
   }
+}
